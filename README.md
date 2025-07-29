@@ -26,5 +26,26 @@ The lab environment consists of two interconnected VMs:
 ## 🛠️ Tech Used
 - Oracle VirtualBox
 - Kali Linux VM
-- Customized Destkop computer running FreeBSD Tru
+- Customized Destkop computer running FreeBSD True NAS
+
+
+---
+
+
+## 📁 More from Me
+
+Visit my full GitHub Pages portfolio to explore additional projects:
+
+🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
+
+
+---
+
+
+## 📜 License
+
+This project is licensed under the 
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to use, share, and adapt this content, with appropriate credit.
 
