@@ -36,13 +36,21 @@ The lab environment consists of two interconnected VMs:
 
 
 ## 🔁 How to Recreate This Lab
-
+- Download and install Oracle VirtualBox.
+- Download, install, and setup a Kali Linux VM.
+- Setup another VM or old desktop computer with Free BSD True NAS.
+- Follow along Labs 1 through 4.
 
 ---
 
 
 ## What I've Learned
 Through this project, I have learned how to:
+- Apply offensive security techniques and tools to a Free BSD Unix-based system.
+- Counter the offensive security techniques with defensive security techniques.
+- How to navigate and adminstrate through the Free BSD True NAS OS.
+- How to conduct a mini pentest and/or security assessment on a real system.
+- How to craft a professional presentation of findings for analysis and reporting.
 
 
 ## 📁 More from Me
