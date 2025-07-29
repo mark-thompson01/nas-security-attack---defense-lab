@@ -32,6 +32,9 @@ The lab environment consists of two interconnected VMs:
 ---
 
 
+## 🔁 How to Recreate This Lab
+
+
 ## 📁 More from Me
 
 Visit my full GitHub Pages portfolio to explore additional projects:
