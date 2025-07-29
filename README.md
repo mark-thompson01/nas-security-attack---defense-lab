@@ -26,7 +26,8 @@ This lab serves as an opportunity to demonstrate my ability to think critically,
 ## 🛠️ Tech Used
 - Oracle VirtualBox
 - Kali Linux VM
-- Customized Destkop computer running FreeBSD True NAS
+- TrueNAS (FreeBSD-based NAS OS)
+- Customized Destkop computer
 - nmap
 - pfctl
 - Metasploit / MSF, meterpreter
