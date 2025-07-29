@@ -16,8 +16,8 @@ This lab serves as an opportunity to demonstrate my ability to think critically,
 ## Lab Setup
 The lab environment consists of two interconnected VMs:
 
-> **Kali Linux VM:** Platform utilized to apply various offensive security tools on Raspberry Pi target.
-> **Raspberry Pi 3:** Dummy web server configured with WebDAV implementation for demonstration purposes.
+> **Kali Linux VM:** Platform utilized to apply various offensive security tools on True NAS system.
+> **True NAS Server:** Desktop system configured with the FreeBSD True NAS operating system.
 
 
 ---
