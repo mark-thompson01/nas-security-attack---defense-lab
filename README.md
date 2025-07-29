@@ -24,4 +24,7 @@ The lab environment consists of two interconnected VMs:
 
 
 ## 🛠️ Tech Used
+- Oracle VirtualBox
+- Kali Linux VM
+- Customized Destkop computer running FreeBSD Tru
 
