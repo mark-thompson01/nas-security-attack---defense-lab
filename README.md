@@ -27,7 +27,10 @@ The lab environment consists of two interconnected VMs:
 - Oracle VirtualBox
 - Kali Linux VM
 - Customized Destkop computer running FreeBSD True NAS
-
+- nmap
+- pfctl
+- Metasploit / MSF, meterpreter
+- ssh-keygen, scp, ssh
 
 ---
 
